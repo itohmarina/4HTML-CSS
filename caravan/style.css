@@ -12,12 +12,12 @@ a{
 
 header{
   width:90%;
-  padding:15px 0;/*上下15px左右0*/
+  padding:15px 0;
   margin:0 auto;
-  text-align:center;/*テキストやインライン要素の行揃えを設定*/
+  text-align:center;
 }
 
-header .heading{/*headerタグ内のheadingクラスにのみ反映される*/
+header .heading{
   font-size:32px;
 }
 
